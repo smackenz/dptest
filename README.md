@@ -1,5 +1,7 @@
 # dptest
 
+Total time spent: 4 hours
+
 ## Requirements
 
 The task:
@@ -48,4 +50,4 @@ Don't spend more than a few hours on this challenge.  We understand that a featu
 - I could have used a view framework like React or Angular to create components with state, however, for speed I decided to keep it simple with vanilla javascript.
 - Using vanilla javascript saved on installing npm packages (react, react-dom) and transpiling ES6 (with classes, etc.) to ES5 using babel + babel-preset-env
 - I would also have written tests (using npm package ava and assert library or mocha) if the time clock was more than a few hours to complete the task
-- I also would have made the solution sexy, if time, using a design framework like Bootstrap, Material, or Ant Design
+- I also would have made the solution sexy, if time, using a design framework like Bootstrap, Material, or Ant Design (installed using Bower)
